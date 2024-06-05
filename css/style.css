@@ -5329,10 +5329,12 @@ input.qty2:focus {
 }
 
 .small-gutters {
+
   margin-right: -5px !important;
   margin-left: -5px !important;
 }
 .small-gutters > [class*="col-"] {
+
   padding-right: 5px !important;
   padding-left: 5px !important;
 }
@@ -7262,3 +7264,5 @@ img.mfp-img {
 .mfp-bg {
   opacity: 0.8 !important;
 }
+
+
