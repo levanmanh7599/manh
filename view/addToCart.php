@@ -27,6 +27,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Trả về số lượng sản phẩm của giỏ hàng
     echo count($_SESSION['cart']);
 } else {
-    echo 'Yêu cầu không hợp lệ';
+    echo 'Yêu cầu không hợp lệ 123 ';
 }
 ?>
